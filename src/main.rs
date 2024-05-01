@@ -32,7 +32,7 @@ async fn fetch_trusted_authors_for(main: &str, client: &Client) -> HashSet<Publi
 }
 
 async fn check_and_comment(note_string: &String, event_id: &EventId, client: &Client) {
-
+    // will this ever get finished?
 }
 
 #[tokio::main]
