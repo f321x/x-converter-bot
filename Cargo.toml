@@ -1,0 +1,9 @@
+[package]
+name = "x-converter-bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dotenv = "0.15.0"
+nostr-sdk = "0.30.0"
+tokio = "1.37.0"
